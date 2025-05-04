@@ -7,7 +7,7 @@ A chaotic sigil and voice incantation generator written in Bash. It deduces your
 ## Installation (Linux)
 
 ```bash
-git clone https://github.com/YOURNAME/sigil.git
+git clone https://github.com/Ltotheuhas/sigil.git
 cd sigil
 ./install.sh
 
