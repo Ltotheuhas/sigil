@@ -1,10 +1,10 @@
-# sigil 🔮
+# sigil
 
 Speak your intent into the void.
 
 A chaotic sigil and voice incantation generator written in Bash. It deduces your intent into a unique symbolic expression, spoken aloud with entropy-infused parameters.
 
-## 🔧 Installation (Linux)
+## Installation (Linux)
 
 ```bash
 git clone https://github.com/YOURNAME/sigil.git
