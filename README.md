@@ -11,7 +11,7 @@ git clone https://github.com/YOURNAME/sigil.git
 cd sigil
 ./install.sh
 
-## 📦 Dependencies
+## Dependencies
 
 - `espeak`: Install via your package manager  
   (e.g., `sudo pacman -S espeak` on Arch Linux)
